@@ -1,0 +1,38 @@
+html,body{
+    height: 100%;
+
+}
+
+.cover{
+    background:#222222 url("src/star.jpg") center center no-repeat;
+    background-size: cover;
+    height: 100%;
+    color: white; 
+    text-align: center;
+    width: 100%;
+     display: flex;
+     align-items: center;
+}
+
+.form-inline{
+    padding-left: 10rem;
+}
+
+.about{
+    background: url('src/download\ \(1\).jpg') center center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 70%;
+}
+.about-text{
+    background: rgba(0,0,0,0.8);
+    color: white;
+    padding: 1.875rem   ;
+}
+
+.trump{
+    background: darkgray;
+    color: white;
+    padding: 2rem  ;
+
+}
